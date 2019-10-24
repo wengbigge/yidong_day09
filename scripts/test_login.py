@@ -13,6 +13,7 @@ def get_data():
 
 
 class TestLogin:
+    
     # 初始化
     def setup_class(self):
         # 获取PageLogin对象
